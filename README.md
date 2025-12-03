@@ -112,9 +112,12 @@ Open the docs in your browser:
 
 ---
 
-## 6) API Overview
+## 6) Frontend
+The Frontend can be found here: https://github.com/Yamam-al/chatbot-frontend-final
 
-### 6.1 `GET /health`
+## 7) API Overview
+
+### 7.1 `GET /health`
 
 Simple health check.
 
@@ -125,7 +128,7 @@ curl.exe -s http://localhost:8080/health
 
 ---
 
-## 6.2 Ingesting Content
+## 7.2 Ingesting Content
 
 The backend supports ingestion of **plain text** and **files (PDF/TXT/MD)** into the local Chroma knowledge base.  
 Each document is chunked, embedded, and persisted.
@@ -147,7 +150,7 @@ python ingest_cli.py   --text "Der Bundesrat ist ein Verfassungsorgan in Deutsch
 ### b) Ingest a **file** (PDF, TXT, MD)
 
 ```bash
-python ingest_cli.py   --file "C:/Users/alsho/Downloads/IzPB_346_Weimarer-Republik_barrierefrei-1.pdf"   --title "Weimarer Republik (barrier-free)"   --topics geschichte   --keywords "weimarer republik" verfassung demokratie
+python ingest_cli.py   --file "C:/Users/alsho/Downloads/IzPB_347_Weimarer-Republik_barrierefrei-1.pdf"   --title "Weimarer Republik (barrier-free)"   --topics geschichte   --keywords "weimarer republik" verfassung demokratie
 ```
 
 **Example Response:**
@@ -155,7 +158,7 @@ python ingest_cli.py   --file "C:/Users/alsho/Downloads/IzPB_346_Weimarer-Republ
 ```json
 {
   "ingested_chunks": 7,
-  "saved_files": ["IzPB_346_Weimarer-Republik_barrierefrei-1.pdf"],
+  "saved_files": ["IzPB_347_Weimarer-Republik_barrierefrei-1.pdf"],
   "failed_files": null
 }
 ```
@@ -169,7 +172,7 @@ python ingest_cli.py   --file "C:/Users/alsho/Downloads/IzPB_346_Weimarer-Republ
 
 ---
 
-### 6.2.a. Optional: Using curl manually (less recommended)
+### 7.2.a. Optional: Using curl manually (less recommended)
 
 Due to differences in quoting across shells, curl requests can break—especially on Windows.  
 The Python CLI is the preferred method.
@@ -212,12 +215,12 @@ Response shape:
 
 ---
 
-### 6.3 `POST /stream` (Server‑Sent Events)
+### 8.3 `POST /stream` (Server‑Sent Events)
 
 Due to differences in quoting across shells, curl requests can break—especially on Windows.  
 The Frontend is the preferred method.
 
-### 6.3.a. Optional: Using curl manually (less recommended)
+### 8.3.a. Optional: Using curl manually (less recommended)
 
 Sends a chat **message list** and receives an SSE stream with incremental tokens.
 - `event: message` with `{"delta":"..."}`
@@ -234,7 +237,7 @@ curl -N -X POST "http://localhost:8080/stream" \
 
 ---
 
-## 7) Security & CORS
+## 8) Security & CORS
 
 - CORS in `api.py` allows `http://localhost:3000` by default.  
   Adjust `allow_origins` for your environment.
