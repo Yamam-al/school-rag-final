@@ -215,12 +215,12 @@ Response shape:
 
 ---
 
-### 8.3 `POST /stream` (Server‑Sent Events)
+### 7.3 `POST /stream` (Server‑Sent Events)
 
 Due to differences in quoting across shells, curl requests can break—especially on Windows.  
 The Frontend is the preferred method.
 
-### 8.3.a. Optional: Using curl manually (less recommended)
+### 7.3.a. Optional: Using curl manually (less recommended)
 
 Sends a chat **message list** and receives an SSE stream with incremental tokens.
 - `event: message` with `{"delta":"..."}`
