@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Venv
+.venv/
+
+#local embedding models
+models/
+
+
+# Editor
+.vscode/
+.idea/

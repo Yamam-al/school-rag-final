@@ -1,0 +1,382 @@
+timestamp,run_name,question_id,question_text,repetition,ok,error_type,error_message,answer_len_chars,answer,sources,durations_ms_retrieval,durations_ms_prompt_build,durations_ms_llm_time_to_first_token,durations_ms_llm_stream_duration,durations_ms_total,sizes_emitted_chars,sizes_chunks
+2025-12-01T03:39:35,einfach,1,Was bedeutet Asyl in Deutschland?,1,True,,,569,"Asyl bedeutet, dass Menschen in Deutschland Schutz finden können. Wenn jemand aus seinem Land fliehen muss, weil er dort verfolgt wird oder Angst um sein Leben hat, kann er in Deutschland Asyl beantragen. Das heißt, die deutsche Regierung prüft seinen Fall und entscheidet, ob er bleiben darf.
+
+### Begriffe erklärt:
+
+**Asyl:** Schutz für Menschen, die aus ihrem Land fliehen müssen, weil sie dort verfolgt werden oder Angst um ihr Leben haben.
+
+**Verfolgung:** Wenn jemand in seinem eigenen Land bedroht wird, zum Beispiel wegen seiner Meinung, Religion oder Herkunft.",einfachPolitik: Flucht Und Asyl|einfachPolitik: Das Grundgesetz – Die Grundrechte|einfachPolitik: Zusammenleben Und Diskriminierung|einfachPolitik: Lexikon,33.98,0.03,9692.56,20202.61,29929.18,569,142
+2025-12-01T03:40:07,einfach,2,Was ist der Unterschied zwischen Grundrechten und Bürgerrechten?,1,True,,,697,"Grundrechte sind Rechte, die für alle Menschen gelten. Sie schützen wichtige Dinge wie Leben, Freiheit und Gleichberechtigung. In Deutschland stehen diese Rechte im Grundgesetz.
+
+Bürgerrechte sind spezielle Rechte für Bürger eines Landes. Diese Rechte erlauben es Bürgern, am politischen Leben teilzunehmen, zum Beispiel durch Wählen oder Demonstrieren.
+
+### Begriffe erklärt:
+
+**Grundrechte:** Das sind Rechte, die für jeden Menschen gelten. Sie schützen wichtige Dinge wie das Recht auf Freiheit und Gleichberechtigung.
+
+**Bürgerrechte:** Diese Rechte haben nur die Bürger eines Landes. Mit diesen Rechten können sie am politischen Leben teilnehmen, zum Beispiel durch Wählen oder Demonstrieren.",einfachPolitik: Das Grundgesetz – Über Den Staat|einfachPolitik: Lexikon|einfachPolitik: Das Grundgesetz – Die Grundrechte|einfachPolitik: Zusammenleben Und Diskriminierung,45.24,0.05,9647.84,26768.9,36462.03,697,186
+2025-12-01T03:40:46,einfach,3,Warum gibt es in Deutschland eine Gewaltenteilung?,1,True,,,1009,"In Deutschland gibt es eine Gewaltenteilung, damit niemand zu viel Macht bekommt. Es gibt drei Teile der Regierung:
+
+1. **Das Parlament (Gesetzgebung):** Das sind die Abgeordneten im Bundestag und Bundesrat. Sie machen Gesetze.
+
+2. **Die Regierung (Exekutive):** Der Kanzler oder die Kanzlerin und ihre Minister führen das Land. Sie setzen die Gesetze um.
+
+3. **Die Gerichte (Judikative):** Richterinnen und Richter entscheiden in Streitfällen, ob etwas rechtens ist.
+
+Diese drei Teile arbeiten unabhängig voneinander. So wird sichergestellt, dass niemand zu viel Macht hat und alle fair behandelt werden.
+
+### Begriffe erklärt:
+
+- **Gewaltenteilung:** Das Aufteilen der Regierung in verschiedene Bereiche, damit keiner zu viel Macht bekommt.
+  
+- **Parlament:** Der Ort, an dem Gesetze gemacht werden. Es besteht aus Abgeordneten.
+
+- **Regierung:** Die Gruppe von Politikern, die das Land führen und die Gesetze umsetzen.
+
+- **Gerichte:** Orte, wo Richterinnen und Richter über Recht und Unrecht entscheiden.",einfachPolitik: Lexikon|einfachPolitik: Das Grundgesetz – Über Den Staat|einfachPolitik: Flucht Und Asyl|einfachPolitik: Nationalsozialismus,42.86,0.04,9697.67,42293.45,52034.01,1009,289
+2025-12-01T03:41:40,einfach,4,Was bedeutet Demokratie?,1,True,,,698,"Demokratie bedeutet, dass alle Menschen in einem Land gleich sind. Jeder Mensch hat das Recht, seine Meinung zu sagen und mitzubestimmen, was im Land passiert. Das kann zum Beispiel durch Wahlen geschehen, bei denen die Menschen eine Regierung wählen. In einer Demokratie dürfen alle Menschen ihre Meinung frei äußern, ohne Angst haben zu müssen.
+
+### Begriffe erklärt:
+
+**Demokratie:** Ein System, in dem alle Menschen gleich sind und mitbestimmen können.
+
+**Wahlen:** Eine Möglichkeit für die Menschen, eine Regierung oder Personen zu wählen, die das Land führen sollen. 
+
+**Meinungsfreiheit:** Das Recht, seine Gedanken und Meinungen frei äußern zu dürfen, ohne Angst vor Strafe haben zu müssen.",einfachPolitik: Lexikon|einfachPolitik: Einmischen. Mitentscheiden.|einfachPolitik: Europa|einfachPolitik: Das Grundgesetz – Die Grundrechte,36.79,0.02,9648.82,26986.47,36672.1,698,184
+2025-12-01T03:42:18,einfach,5,Wie funktioniert eine Bundestagswahl?,1,True,,,1801,"Bei der Bundestagswahl in Deutschland wählen alle Menschen, die mindestens 18 Jahre alt sind. Sie entscheiden, wer im Bundestag sitzt. Der Bundestag ist das Parlament, also das Gesetzgebungsorgan des Landes.
+
+### Wie wird gewählt?
+
+1. **Zwei Stimmen**: Jeder Wähler hat zwei Stimmen:
+   - Die Erststimme: Mit dieser wählen Sie einen Direktkandidaten aus Ihrem Wahlkreis.
+   - Die Zweitstimme: Diese geben Sie einer Partei, die landesweit antritt.
+
+2. **Direktmandate**: Wenn ein Kandidat in seinem Wahlkreis die meisten Erststimmen bekommt, gewinnt er direkt einen Sitz im Bundestag. Dies nennt man Direktmandat.
+
+3. **Listenplätze**: Die Zweitstimme entscheidet über die Anzahl der Sitze, die eine Partei insgesamt erhält. Diese Sitze werden auf Grundlage von Landeslisten vergeben. Wenn eine Partei mindestens 5 % der Zweitstimmen bekommt oder drei Direktmandate gewinnt, darf sie in den Bundestag einziehen.
+
+4. **Sitzverteilung**: Die insgesamt 598 Sitze im Bundestag werden nach einem komplizierten Verfahren verteilt, das die Stimmen aus allen Wahlkreisen und Parteilisten berücksichtigt.
+
+5. **Koalitionsbildung**: Nach der Wahl bilden die Parteien mit den meisten Sitzen oft eine Koalition, um gemeinsam regieren zu können. Das bedeutet, sie arbeiten zusammen, auch wenn keine Partei alleine genug Sitze hat.
+
+### Begriffe erklärt:
+
+- **Bundestag**: Das Parlament von Deutschland. Hier werden Gesetze gemacht.
+- **Wahlkreis**: Eine bestimmte Region in Deutschland, aus der ein Kandidat direkt gewählt wird.
+- **Direktmandat**: Ein Sitz im Bundestag, den ein Kandidat durch die meisten Erststimmen in seinem Wahlkreis erhält.
+- **Partei**: Eine Gruppe von Menschen mit ähnlichen politischen Ideen und Zielen.
+- **Koalition**: Mehrere Parteien arbeiten zusammen, um gemeinsam regieren zu können.",einfachPolitik: Lexikon|Bundestagswahl 2025 – Kurz und Knapp|einfachPolitik: Bundestagswahl 2025 – Das Heft|einfachPolitik: Das Grundgesetz – Über Den Staat,41.48,0.02,9658.77,73672.69,83372.96,1801,505
+2025-12-01T03:43:44,einfach,6,Wie können Bürgerinnen und Bürger in Deutschland politisch mitbestimmen?,1,True,,,1537,"In Deutschland können Bürgerinnen und Bürger auf verschiedene Weisen politisch mitbestimmen:
+
+1. **Wählen gehen**: Jede Person, die mindestens 18 Jahre alt ist und die deutsche Staatsbürgerschaft hat, kann wählen. Bei Wahlen entscheiden sie über Politiker*innen und Gesetze.
+
+2. **Briefwahl nutzen**: Wenn man nicht persönlich ins Wahllokal geht, kann man per Briefwahl seine Stimme abgeben.
+
+3. **An Veranstaltungen teilnehmen**: Man kann an Diskussionen oder Versammlungen teilnehmen, um Ideen auszutauschen und andere zu informieren.
+
+4. **Petitionen unterzeichnen**: Wenn es ein Thema gibt, das man ändern möchte, kann man eine Petition unterschreiben. Das ist wie ein Wunschzettel an die Politiker*innen.
+
+5. **In Vereinen mitmachen**: In vielen Vereinen oder Gruppen kann man sich engagieren und gemeinsam für Veränderungen eintreten.
+
+6. **Sich informieren und diskutieren**: Es ist wichtig, gut informiert zu sein und über politische Themen zu sprechen. So können Bürgerinnen und Bürger ihre Meinung besser vertreten.
+
+### Begriffe erklärt:
+
+- **Wählen gehen**: Das bedeutet, dass man seine Stimme abgibt, um Politiker*innen oder Gesetze auszuwählen.
+  
+- **Briefwahl**: Eine Möglichkeit zu wählen, ohne ins Wahllokal zu gehen. Man bekommt einen Stimmzettel nach Hause und gibt ihn per Post ab.
+
+- **Petitionen**: Das sind Wunschzettel, die viele Menschen unterschreiben können, um Politiker*innen auf ein Thema aufmerksam zu machen.
+
+- **Vereine**: Gruppen von Menschen, die sich für bestimmte Themen oder Interessen engagieren.",Bundestagswahl 2025 – Kurz und Knapp|einfachPolitik: Zusammenleben Und Diskriminierung|einfachPolitik: Lexikon|einfachPolitik: Das Grundgesetz – Über Den Staat,46.2,0.02,9684.67,59370.85,69101.74,1537,403
+2025-12-01T03:44:55,einfach,7,Welche Aufgaben hat das Europäische Parlament?,1,True,,,882,"Das Europäische Parlament hat viele Aufgaben. Es macht Gesetze für Europa zusammen mit dem Rat der EU. Das bedeutet, es entscheidet, was in ganz Europa gilt. Die Abgeordneten im Europäischen Parlament werden von den Menschen in den Ländern gewählt.
+
+### Begriffe erklärt:
+
+- **Europäisches Parlament**: Ein Teil der Regierung von Europa. Es hat viele Mitglieder aus verschiedenen Ländern.
+  
+- **Gesetze machen**: Das heißt, Regeln aufstellen, die alle im Land oder in Europa befolgen müssen.
+
+- **Abgeordnete**: Menschen, die gewählt werden, um für andere zu sprechen und Entscheidungen zu treffen. Sie arbeiten im Europäischen Parlament.
+
+Das Europäische Parlament überwacht auch, wie das Geld der EU ausgegeben wird. Es stellt sicher, dass alles fair und richtig gemacht wird. Außerdem kann es den Kommissarpräsidenten kritisieren oder sogar abwählen, wenn er nicht gut arbeitet.",einfachPolitik: Europa|einfachPolitik: Lexikon|einfachPolitik: Einmischen. Mitentscheiden.,43.99,0.02,9687.45,33259.16,42990.63,882,228
+2025-12-01T03:45:40,einfach,8,Was waren die wichtigsten Merkmale der nationalsozialistischen Diktatur?,1,True,,,1406,"Die nationalsozialistische Diktatur hatte viele gefährliche Merkmale. Hier sind einige der wichtigsten:
+
+1. **Macht ohne Mitbestimmung**: Die Nationalsozialisten wollten alles allein bestimmen. Sie ließen keine anderen Parteien mitregieren.
+
+2. **Keine Demokratie**: Es gab keine freien Wahlen, bei denen die Menschen entscheiden konnten, wer sie vertritt. Der Staat war nicht demokratisch.
+
+3. **Gewalt und Unterdrückung**: Die Nationalsozialisten übten Gewalt gegen ihre Gegner aus. Sie schlugen, fingen an und quälten viele Menschen.
+
+4. **Missachtung von Rechten**: Sie achteten nicht auf die Grundrechte der Menschen. Zum Beispiel durften Gerichte nicht unabhängig entscheiden.
+
+5. **Führerprinzip**: Adolf Hitler war der alleinige Führer. Fast alle Mitglieder der Partei hörten nur auf ihn und seine Befehle.
+
+### Begriffe erklärt:
+
+- **Diktatur**: Ein Staat, in dem eine einzige Person oder Gruppe alles bestimmt. Es gibt keine freien Wahlen.
+  
+- **Demokratie**: Ein Staatssystem, bei dem die Menschen durch Wahlen ihre Regierung wählen können.
+
+- **Gewalt**: Die Anwendung von körperlicher Kraft gegen andere Menschen, oft um sie zu unterdrücken oder zu kontrollieren.
+
+- **Grundrechte**: Rechte, die jedem Menschen zustehen. Dazu gehören das Recht auf Leben und Freiheit.
+
+- **Führerprinzip**: Ein System, bei dem eine einzige Person alle Entscheidungen trifft und andere ihr blind folgen müssen.",einfachPolitik: Nationalsozialismus|einfachPolitik: Lexikon,51.38,0.01,9420.45,57136.82,66608.68,1406,387
+2025-12-01T03:46:49,einfach,9,Warum scheiterte die Weimarer Republik?,1,True,,,1340,"Die Weimarer Republik scheiterte aus mehreren Gründen:
+
+1. **Wirtschaftliche Probleme**: Nach dem Ersten Weltkrieg war Deutschland sehr arm. Es gab viel Hunger, und viele Menschen hatten keine Arbeit. Die Wirtschaftskrise von 1929 verschlimmerte die Lage noch weiter.
+
+2. **Politische Instabilität**: In der Weimarer Republik gab es viele verschiedene Parteien mit unterschiedlichen Meinungen. Das führte oft zu Streitigkeiten und machte es schwer, stabile Regierungen zu bilden.
+
+3. **Versailler Vertrag**: Dieser Friedensvertrag nach dem Ersten Weltkrieg war für Deutschland sehr hart. Es musste Gebiete abgeben und hohe Reparationen zahlen. Viele Deutsche fühlten sich dadurch ungerecht behandelt.
+
+4. **Aufstieg der Nationalsozialisten**: Die NSDAP, angeführt von Adolf Hitler, nutzte die Unzufriedenheit aus. Sie versprachen Arbeit und Stabilität und gewannen viele Anhänger. 1933 kamen sie an die Macht und beendeten die Weimarer Republik.
+
+### Begriffe erklärt:
+
+- **Wirtschaftskrise**: Eine Zeit, in der es wenig Geld gibt, Firmen pleite gehen und viele Menschen arbeitslos sind.
+- **Versailler Vertrag**: Ein Friedensvertrag nach dem Ersten Weltkrieg, der Deutschland schwere Bedingungen auferlegte.
+- **Nationalsozialisten (NSDAP)**: Eine politische Partei in Deutschland unter Adolf Hitler, die für den Nationalsozialismus stand.",Weimarer Republik (Klexikon)|einfachPolitik: Lexikon|einfachPolitik: Nationalsozialismus|einfachPolitik: Das Grundgesetz – Über Den Staat,47.94,0.02,9664.43,52643.85,62356.25,1340,360
+2025-12-01T03:47:53,einfach,10,Was bedeutet Diskriminierung und warum ist sie ein Problem?,1,True,,,802,"Diskriminierung bedeutet, dass manche Menschen unfair behandelt werden. Das kann passieren, weil sie anders aussehen oder sich anders verhalten als andere. Zum Beispiel können Menschen diskriminiert werden, weil sie eine andere Hautfarbe haben, ein anderes Geschlecht sind oder weil sie homosexuell sind.
+
+Diskriminierung ist ein Problem, weil es nicht fair ist und Menschen traurig macht. Es kann dazu führen, dass Menschen keine Chancen bekommen, wie zum Beispiel einen guten Job zu finden oder in eine gute Schule zu gehen. Außerdem fühlt sich jeder Mensch besser, wenn er respektiert wird.
+
+### Begriffe erklärt:
+
+- **Diskriminierung**: Wenn jemand unfair behandelt wird.
+- **Fair**: Etwas ist gerecht und gleich für alle Menschen.
+- **Chancen**: Möglichkeiten, etwas zu erreichen oder zu bekommen.",einfachPolitik: Lexikon|einfachPolitik: Zusammenleben Und Diskriminierung|einfachPolitik: Einmischen. Mitentscheiden.,46.35,0.02,9612.7,27507.18,37166.24,802,189
+2025-12-01T04:30:54,komplex,1,Was bedeutet Asyl in Deutschland?,1,True,,,886,"In Deutschland bedeutet Asyl, dass Menschen Schutz bekommen können. Wenn jemand aus seinem Land fliehen muss, weil er dort in Gefahr ist oder verfolgt wird, kann er hierher kommen und um Asyl bitten. Das heißt, er will sicher sein und nicht mehr gefährdet werden.
+
+### Begriffe erklärt:
+
+**Asyl:** Schutz für Menschen, die aus ihrem Land fliehen müssen. Sie können sich in einem anderen Land sicher fühlen.
+
+**Flüchtling:** Eine Person, die ihr Heimatland verlassen muss, weil sie dort bedroht wird oder Angst vor Verfolgung hat. 
+
+**Verfolgt werden:** Wenn jemand von seiner Regierung oder anderen Leuten schlecht behandelt wird und deshalb fliehen muss.
+
+In Deutschland gibt es Gesetze, die regeln, wie Asyl beantragt wird und wer Schutz bekommt. Menschen, die um Asyl bitten, müssen zeigen, dass sie wirklich in Gefahr sind. Wenn ihnen das gelingt, dürfen sie bleiben und hier leben.",Grundrechte (IzpB)|Flucht und Migration (APuZ)|Soziale Ungleichheit (IzpB),38.97,0.03,9850.3,33174.51,43063.81,886,224
+2025-12-01T04:31:39,komplex,2,Was ist der Unterschied zwischen Grundrechten und Bürgerrechten?,1,True,,,633,"Grundrechte sind Rechte, die der Staat anerkennt. Sie stehen im Grundgesetz. Jeder Mensch hat diese Rechte in Deutschland.
+
+Bürgerrechte sind spezielle Rechte für Bürger eines Landes. Sie gelten nur für Menschen, die dort leben und Bürger sind.
+
+Grundrechte schützen alle Menschen gleich. Bürgerrechte gelten nur für Bürger des Staates.
+
+### Begriffe erklärt:
+
+- **Grundgesetz**: Das wichtigste Gesetzbuch in Deutschland. Es sagt, welche Rechte jeder Mensch hat.
+  
+- **Bürger**: Eine Person, die offiziell zu einem Land gehört und dort lebt.
+
+- **Staat**: Ein Gebiet mit eigenen Regeln und einer Regierung, zum Beispiel Deutschland.",Grundrechte (IzpB),46.08,0.02,5418.1,23463.52,28927.71,633,170
+2025-12-01T04:32:10,komplex,3,Warum gibt es in Deutschland eine Gewaltenteilung?,1,True,,,1007,"In Deutschland gibt es eine Gewaltenteilung, damit niemand zu viel Macht bekommt. Das bedeutet, dass die Arbeit der Regierung auf drei Teile verteilt ist: das Parlament (Gesetzgebung), die Regierung (Ausführung) und die Gerichte (Rechtsprechung). So kann jeder Teil kontrollieren, was die anderen machen, und es gibt weniger Gefahr, dass jemand zu viel Macht hat.
+
+### Begriffe erklärt:
+
+**Macht:** Das ist die Fähigkeit, Dinge zu entscheiden oder zu bestimmen. Wenn jemand zu viel Macht hat, kann er andere leicht kontrollieren oder beeinflussen.
+
+**Parlament (Gesetzgebung):** Hier sitzen die Abgeordneten und machen Gesetze. Sie entscheiden über neue Regeln für das Land.
+
+**Regierung (Ausführung):** Diese Gruppe führt die Gesetze aus, die das Parlament beschlossen hat. Sie kümmert sich um den Alltag im Land.
+
+**Gerichte (Rechtsprechung):** Die Gerichte prüfen, ob alles nach dem Gesetz gemacht wird. Wenn jemand meint, dass ein Gesetz nicht richtig angewendet wurde, können sie helfen, das zu klären.",Bundestagswahl 2025 (IzpB)|Rechtsstaat (IzpB)|Flucht und Migration (APuZ)|Nationalsozialismus II (IzpB),42.53,0.02,9657.48,40075.52,49775.56,1007,272
+2025-12-01T04:33:02,komplex,4,Was bedeutet Demokratie?,1,True,,,657,"Demokratie bedeutet, dass Menschen in einem Land gemeinsam über wichtige Entscheidungen sprechen und abstimmen. Jeder Mensch hat eine Stimme und kann wählen, wer ihn oder sie im Parlament vertritt. In einer Demokratie gibt es auch Grundrechte wie Freiheit, Meinungsfreiheit und das Recht auf Eigentum.
+
+### Begriffe erklärt:
+
+**Demokratie:** Ein System, in dem die Menschen selbst über Regeln und Führer entscheiden können.
+
+**Grundrechte:** Wichtige Rechte, die jedem Menschen zustehen, wie zum Beispiel Freiheit und Meinungsfreiheit. 
+
+**Parlament:** Eine Gruppe von gewählten Personen, die Gesetze machen und wichtige Entscheidungen für das Land treffen.",Demokratie (IzpB)|Parlamentarische Demokratie (IzpB),36.27,0.01,9041.3,26093.83,35171.42,657,177
+2025-12-01T04:33:39,komplex,5,Wie funktioniert eine Bundestagswahl?,1,True,,,1863,"Bei der Bundestagswahl in Deutschland wählen die Menschen, wer sie im Bundestag vertreten soll. Der Bundestag ist das Parlament von Deutschland. Hier treffen Politikerinnen und Politiker wichtige Entscheidungen für unser Land.
+
+### Wie läuft die Wahl ab?
+
+1. **Wahlberechtigte**: Jeder Deutsche, der mindestens 18 Jahre alt ist, kann wählen gehen.
+2. **Stimmen**: Bei der Bundestagswahl gibt es zwei Arten von Stimmen:
+   - Die Erststimme: Mit dieser wählt man eine Person aus dem eigenen Wahlkreis.
+   - Die Zweitstimme: Diese entscheidet über die Parteien, die insgesamt in den Bundestag kommen.
+
+3. **Wahlkampf**: Vor der Wahl machen die Parteien Werbung und sagen, was sie im Bundestag erreichen wollen.
+
+4. **Wahltage**: Die Wahl findet an einem Sonntag statt. An diesem Tag gehen die Menschen zur Wahlurne und geben ihre Stimmen ab.
+
+5. **Ergebnis**: Nach der Auszählung aller Stimmen wird entschieden, welche Partei wie viele Sitze im Bundestag bekommt. Die Partei mit den meisten Zweitstimmen hat oft eine starke Position bei der Regierungsbildung.
+
+### Begriffe erklärt:
+
+- **Bundestag**: Das ist das Parlament in Deutschland. Dort treffen Politikerinnen und Politiker wichtige Entscheidungen.
+- **Wahlberechtigt**: Das bedeutet, dass man das Recht hat zu wählen. In Deutschland dürfen alle ab 18 Jahren wählen.
+- **Stimmen**: Bei der Wahl gibt es zwei Arten von Stimmen – die Erststimme für eine Person und die Zweitstimme für eine Partei.
+- **Wahlkampf**: Das ist die Zeit vor der Wahl, in der Parteien versuchen, Menschen zu überzeugen, sie zu wählen. Sie machen Werbung und sagen, was sie erreichen wollen.
+- **Regierungsbildung**: Nach der Wahl müssen die Parteien entscheiden, wer zusammen regiert. Die Partei mit den meisten Stimmen hat oft eine starke Rolle dabei.
+
+Diese Erklärungen helfen dir, das System der Bundestagswahl besser zu verstehen!",Bundestagswahl 2025 (IzpB)|Parlamentarische Demokratie (IzpB)|Demokratie (IzpB),41.06,0.02,9614.38,73045.43,82700.89,1863,500
+2025-12-01T04:35:04,komplex,6,Wie können Bürgerinnen und Bürger in Deutschland politisch mitbestimmen?,1,True,,,1830,"In Deutschland können Bürgerinnen und Bürger auf verschiedene Weisen politisch mitbestimmen:
+
+1. **Wählen gehen**: Jede Person, die mindestens 18 Jahre alt ist, kann wählen. Bei Wahlen entscheiden sie, wer in den Bundestag oder andere Parlamente kommt.
+
+2. **Volksabstimmungen und Bürgerbegehren**: Manchmal können Menschen direkt über bestimmte Themen abstimmen. In einigen Bundesländern gibt es auch die Möglichkeit, dass Bürgerinnen und Bürger Vorschläge machen, die dann von der Regierung geprüft werden.
+
+3. **Anhörungen und Beteiligungsverfahren**: Manchmal können Menschen ihre Meinung zu neuen Gesetzen oder Plänen sagen. Das kann in öffentlichen Anhörungen oder durch schriftliche Stellungnahmen geschehen.
+
+4. **Mitglied in einer Partei werden**: Wenn jemand eine politische Partei unterstützen möchte, kann er oder sie Mitglied dieser Partei werden und dort mitentscheiden.
+
+5. **Demonstrationen und Petitionen**: Menschen können auch auf die Straße gehen oder Unterschriften sammeln, um für ihre Anliegen zu kämpfen.
+
+### Begriffe erklärt:
+
+- **Wählen gehen**: Das bedeutet, dass man seine Stimme abgibt, um über Politikerinnen und Politiker oder Gesetze zu entscheiden.
+  
+- **Volksabstimmung**: Eine Abstimmung, bei der alle Menschen in einem Land oder einer Region direkt darüber entscheiden können, ob ein bestimmtes Gesetz gilt.
+
+- **Bürgerbegehren**: Ein Vorschlag von Bürgern, den die Regierung prüfen muss. Es ist eine Möglichkeit für Bürgerinnen und Bürger, sich einzubringen.
+
+- **Anhörung**: Eine Veranstaltung, bei der Menschen ihre Meinungen zu einem Thema sagen können, das oft mit einer Entscheidung der Politik verbunden ist.
+
+- **Petition**: Ein offizielles Schreiben oder eine Unterschriftensammlung, um etwas zu verändern. Es wird an die Regierung geschickt, um auf ein Problem aufmerksam zu machen.",Demokratie (IzpB)|Parlamentarische Demokratie (IzpB)|Bundestagswahl 2025 (IzpB)|Europäische Union (IzpB),46.52,0.02,9661.91,70475.05,80183.51,1830,476
+2025-12-01T04:36:26,komplex,7,Welche Aufgaben hat das Europäische Parlament?,1,True,,,1494,"Das Europäische Parlament hat viele Aufgaben. Hier sind einige wichtige:
+
+1. **Gesetze machen**: Das Europäische Parlament schlägt Gesetze vor und stimmt darüber ab. Es arbeitet mit dem Rat der EU zusammen, um diese Gesetze zu beschließen.
+
+2. **EU-Budget**: Das Parlament entscheidet über den Haushalt der EU. Es prüft die Ausgaben und Einnahmen der Europäischen Union.
+
+3. **Überwachung**: Das Parlament beobachtet, wie andere EU-Organisationen arbeiten. Es stellt sicher, dass sie ihre Aufgaben richtig erfüllen.
+
+4. **Kommission wählen**: Das Parlament wählt die Kommissare der Europäischen Kommission. Diese sind für verschiedene Bereiche zuständig und führen die Politik der EU aus.
+
+5. **Rechte schützen**: Das Parlament setzt sich für die Rechte der Menschen in Europa ein. Es sorgt dafür, dass diese Rechte eingehalten werden.
+
+### Begriffe erklärt:
+
+- **Gesetze machen**: Dies bedeutet, Regeln zu erstellen, die alle EU-Länder befolgen müssen.
+  
+- **EU-Budget**: Das ist wie ein Haushalt für die gesamte Europäische Union. Es zeigt an, wo das Geld herkommt und wofür es ausgegeben wird.
+
+- **Überwachung**: Dies bedeutet zu kontrollieren oder zu beobachten, dass alles richtig läuft.
+
+- **Kommission wählen**: Die Kommissare sind wie Minister in der EU. Sie kümmern sich um verschiedene Aufgabenbereiche und setzen die Politik um.
+
+- **Rechte schützen**: Menschenrechte sind wichtige Rechte, die jeder Mensch hat. Das Parlament achtet darauf, dass diese Rechte nicht verletzt werden.",Europäische Union (IzpB)|Parlamentarische Demokratie (IzpB),41.43,0.02,9555.08,61715.51,71312.04,1494,411
+2025-12-01T04:37:40,komplex,8,Was waren die wichtigsten Merkmale der nationalsozialistischen Diktatur?,1,True,,,1667,"Die nationalsozialistische Diktatur in Deutschland hatte einige wichtige Merkmale:
+
+1. **Führerprinzip**: Adolf Hitler war der alleinige Anführer. Er hatte die höchste Macht und konnte alles entscheiden.
+
+2. **Einparteiensystem**: Nur eine Partei, die NSDAP (Nationalsozialistische Deutsche Arbeiterpartei), durfte existieren. Andere politische Parteien wurden verboten.
+
+3. **Unterdrückung der Freiheiten**: Die Menschen hatten keine Meinungs-, Versammlungs- oder Pressefreiheit. Wer gegen die Regeln verstieß, wurde bestraft.
+
+4. **Rassismus und Diskriminierung**: Jüdinnen und Juden sowie andere Gruppen wurden diskriminiert und verfolgt. Dies führte zum Holocaust, bei dem Millionen Menschen ums Leben kamen.
+
+5. **Propaganda**: Die Regierung nutzte Medien wie Zeitungen, Radio und Filme, um ihre Ideen zu verbreiten und die Bevölkerung zu beeinflussen.
+
+6. **Militarisierung**: Deutschland baute seine Armee stark aus und bereitete sich auf Kriege vor.
+
+7. **Gleichschaltung**: Alle Bereiche des Lebens wurden gleichgeschaltet, das heißt, sie mussten der Ideologie der Nazis folgen. Das galt für Schulen, Kirchen und Gewerkschaften.
+
+### Begriffe erklärt:
+
+- **Diktatur**: Eine Regierungsform, in der eine Person oder eine kleine Gruppe alle Macht hat und die Menschen keine Mitsprache haben.
+  
+- **Führerprinzip**: Ein System, bei dem ein Anführer (der Führer) alle Entscheidungen trifft. Andere dürfen nicht mitbestimmen.
+
+- **Einparteiensystem**: Eine politische Ordnung, in der nur eine Partei erlaubt ist und andere verboten werden.
+
+- **Propaganda**: Informationen oder Bilder, die absichtlich gemacht sind, um Menschen zu beeinflussen oder zu überzeugen.",Widerstand im Nationalsozialismus (IzpB)|Nationalsozialismus I (IzpB)|Grundrechte (IzpB)|Rechtsstaat (IzpB),46.03,0.02,9636.61,67825.85,77508.52,1667,462
+2025-12-01T04:38:59,komplex,9,Warum scheiterte die Weimarer Republik?,1,True,,,1646,"Die Weimarer Republik scheiterte aus mehreren Gründen:
+
+1. **Wirtschaftliche Probleme**: Nach dem Ersten Weltkrieg war Deutschland sehr arm. Die Menschen hatten wenig Geld und es gab viele Arbeitslose. Außerdem musste Deutschland viel Geld an andere Länder zahlen, was die Situation noch schlimmer machte.
+
+2. **Politische Instabilität**: Es gab viele verschiedene Parteien im Parlament, aber sie konnten sich nicht gut einigen. Das führte zu vielen Regierungswechseln und Chaos in der Politik.
+
+3. **Extremistische Gruppen**: Viele Menschen waren unzufrieden und vertrauten den normalen Parteien nicht mehr. Sie unterstützten radikale Gruppen wie die Nationalsozialisten (Nazis) oder Kommunisten, die extreme Ideen hatten.
+
+4. **Verfassungsmängel**: Die Verfassung der Weimarer Republik hatte einige Schwächen. Zum Beispiel konnte der Reichspräsident in Notzeiten sehr viel Macht haben und das Parlament umgehen.
+
+5. **Fehlende Unterstützung**: Viele Menschen, besonders die Reichen und die Armee, unterstützten die Weimarer Republik nicht richtig. Sie wollten lieber eine starke Führung ohne Demokratie.
+
+### Begriffe erklärt:
+
+- **Weimarer Republik**: Dies war der Name für Deutschland von 1919 bis 1933.
+- **Wirtschaftliche Probleme**: Schwierigkeiten mit Geld und Arbeit, die viele Menschen betreffen.
+- **Politische Instabilität**: Wenn es in der Politik viel Chaos gibt und keine klaren Entscheidungen getroffen werden können.
+- **Extremistische Gruppen**: Parteien oder Organisationen, die sehr radikale Ideen haben und oft gewaltbereit sind.
+- **Verfassungsmängel**: Fehler oder Schwächen in den Regeln, nach denen ein Land regiert wird.",Weimarer Republik (IzpB)|Demokratie (IzpB)|Nationalsozialismus I (IzpB)|Parlamentarische Demokratie (IzpB),44.61,0.02,9644.08,64287.45,73976.16,1646,436
+2025-12-01T04:40:15,komplex,10,Was bedeutet Diskriminierung und warum ist sie ein Problem?,1,True,,,1097,"Diskriminierung bedeutet, dass jemand anders behandelt wird als andere Menschen. Das kann passieren, weil er oder sie zum Beispiel eine andere Hautfarbe hat, ein anderes Geschlecht ist oder eine andere Religion hat. Manchmal werden Menschen auch wegen ihrer sexuellen Orientierung diskriminiert.
+
+Diskriminierung ist ein Problem, weil es unfair und ungerecht ist. Es macht den betroffenen Menschen das Leben schwerer. Sie fühlen sich oft nicht willkommen oder wertgeschätzt. Außerdem kann Diskriminierung dazu führen, dass Menschen keine gleichen Chancen im Leben haben, zum Beispiel bei der Arbeit oder in der Schule.
+
+### Begriffe erklärt:
+
+**Diskriminierung:** Wenn jemand anders behandelt wird als andere Menschen, nur weil er oder sie etwas Besonderes hat, wie eine Hautfarbe oder Religion. Das ist oft unfair und ungerecht.
+
+**Ungerecht:** Wenn etwas nicht richtig oder fair ist. Zum Beispiel, wenn zwei Kinder das gleiche Spielzeug haben wollen, aber nur eines bekommt es.
+
+**Chancen:** Möglichkeiten im Leben, die man nutzen kann, wie eine gute Ausbildung oder einen guten Job zu bekommen.",Soziale Ungleichheit (IzpB)|Demokratie (IzpB)|Grundrechte (IzpB)|Medienkompetenz (IzpB),44.18,0.04,9587.5,37503.4,47135.12,1097,257
+2025-12-01T06:26:53,komplex_pc,1,Was bedeutet Asyl in Deutschland?,1,True,,,663,"In Deutschland bedeutet Asyl, dass Menschen Schutz suchen. Sie kommen oft aus anderen Ländern, weil sie dort in Gefahr sind oder nicht mehr leben können. In Deutschland sollen diese Menschen sicher sein und ein neues Leben beginnen.
+
+### Begriffe erklärt:
+
+**Asyl:** Das ist der Schutz für Menschen, die aus ihrem Land fliehen müssen. Sie kommen nach Deutschland, um hier sicher zu leben.
+
+**Gefahr:** Wenn jemand in seinem Heimatland nicht mehr sicher ist, zum Beispiel wegen Krieg oder Verfolgung, dann ist er in Gefahr.
+
+**Neues Leben beginnen:** Das bedeutet, dass Menschen versuchen, sich in einem neuen Land einzuleben und dort ein normales Leben zu führen.",Grundrechte (IzpB)|Flucht und Migration (APuZ)|Soziale Ungleichheit (IzpB),41.77,0.03,10429.49,27391.51,37862.8,663,158
+2025-12-01T06:27:33,komplex_pc,2,Was ist der Unterschied zwischen Grundrechten und Bürgerrechten?,1,True,,,671,"Grundrechte sind Rechte, die jeder Mensch hat. Sie gelten für alle Menschen weltweit. Der Staat muss diese Rechte achten.
+
+Bürgerrechte sind spezielle Grundrechte. Sie gelten nur für Bürger eines Landes. Das bedeutet: Nur wer in einem Land lebt und dort Bürger ist, kann diese Rechte nutzen.
+
+### Begriffe erklärt:
+
+- **Grundrechte:** Diese Rechte hat jeder Mensch von Geburt an. Sie sind weltweit gültig. Der Staat muss sie achten.
+  
+- **Bürgerrechte:** Das sind Grundrechte für die Bürger eines Landes. Nur wer dort lebt und Bürger ist, kann diese Rechte nutzen.
+
+- **Staat:** Eine Gruppe von Menschen, die zusammen ein Land regieren. Der Staat hat Regeln und Gesetze.",Grundrechte (IzpB),49.43,0.02,5766.3,29469.52,35285.27,671,187
+2025-12-01T06:28:11,komplex_pc,3,Warum gibt es in Deutschland eine Gewaltenteilung?,1,True,,,1043,"In Deutschland gibt es eine Gewaltenteilung, damit niemand zu viel Macht bekommt. Das bedeutet, dass die Arbeit des Staates auf drei Teile verteilt ist: das Parlament (Gesetzgebung), die Regierung (Ausführung) und die Gerichte (Rechtsprechung). Jeder Teil hat seine eigenen Aufgaben und kann die anderen überprüfen. So wird sichergestellt, dass alle Menschen gleich behandelt werden und niemand zu viel Macht hat.
+
+### Begriffe erklärt:
+
+- **Gewaltenteilung**: Die Aufteilung der Staatsmacht in verschiedene Bereiche, um Missbrauch zu verhindern.
+- **Parlament (Gesetzgebung)**: Der Teil des Staates, der Gesetze macht. In Deutschland ist das der Bundestag und der Bundesrat.
+- **Regierung (Ausführung)**: Die Regierung führt die Gesetze aus und verwaltet den Staat. Sie wird vom Kanzler oder der Kanzlerin geleitet.
+- **Gerichte (Rechtsprechung)**: Die Gerichte sorgen dafür, dass alle Menschen nach dem Gesetz behandelt werden. Sie entscheiden in Streitfällen.
+
+Diese Aufteilung hilft dabei, die Freiheit und Rechte aller Bürger zu schützen.",Bundestagswahl 2025 (IzpB)|Rechtsstaat (IzpB)|Flucht und Migration (APuZ)|Nationalsozialismus II (IzpB),45.02,0.02,10249.29,48580.53,58874.86,1043,285
+2025-12-01T07:10:37,komplex-laptop,1,Was bedeutet Asyl in Deutschland?,1,False,request_error,"HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=120.0)",0,,,,,,,,,
+2025-12-01T07:12:39,komplex-laptop,2,Was ist der Unterschied zwischen Grundrechten und Bürgerrechten?,1,False,request_error,"HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=120.0)",0,,,,,,,,,
+2025-12-01T07:14:41,komplex-laptop,3,Warum gibt es in Deutschland eine Gewaltenteilung?,1,False,request_error,"HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=120.0)",0,,,,,,,,,
+2025-12-01T07:21:04,komplex-laptop,1,Was bedeutet Asyl in Deutschland?,1,True,,,705,"In Deutschland bedeutet Asyl, dass Menschen aus anderen Ländern hierherkommen können, um Schutz zu suchen. Sie fliehen oft vor Krieg, Verfolgung oder großen Gefahren in ihrem Heimatland. In Deutschland haben sie das Recht, um Asyl zu bitten und einen sicheren Ort zu finden.
+
+### Begriffe erklärt:
+
+**Asyl:** Das ist der Schutz, den Menschen bekommen, wenn sie aus einem anderen Land kommen und hierher fliehen müssen. Sie suchen Hilfe, weil es in ihrem Heimatland gefährlich für sie ist.
+
+**Verfolgung:** Wenn jemand in seinem eigenen Land verfolgt wird, bedeutet das, dass er dort bedroht oder angegriffen wird, oft wegen seiner Meinung, Religion oder Herkunft. Menschen fliehen dann, um sicher zu sein.",Grundrechte (IzpB)|Flucht und Migration (APuZ)|Soziale Ungleichheit (IzpB),33.79,0.02,81774.38,68111.41,149919.6,705,180
+2025-12-01T07:23:36,komplex-laptop,2,Was ist der Unterschied zwischen Grundrechten und Bürgerrechten?,1,True,,,683,"Grundrechte sind Rechte, die im Grundgesetz stehen. Sie gelten für alle Menschen in Deutschland.
+
+Bürgerrechte sind spezielle Rechte, die nur für Bürger eines Landes gelten. Das bedeutet: Nur wer Bürger ist, hat diese Rechte.
+
+Der Unterschied liegt also darin, dass Grundrechte für jeden gelten, während Bürgerrechte nur für Bürger gelten.
+
+### Begriffe erklärt:
+
+- **Grundgesetz**: Ein wichtiges Gesetz in Deutschland. Es sagt, welche Regeln und Rechte es gibt.
+  
+- **Bürger**: Eine Person, die offiziell zu einem Land gehört. Das heißt, sie hat dort ihren festen Wohnsitz.
+
+- **Recht**: Eine Regel oder ein Anspruch, den man hat. Zum Beispiel das Recht auf freie Meinungsäußerung.",Grundrechte (IzpB),35.19,0.02,41269.47,63211.43,104516.11,683,188
+2025-12-01T07:25:23,komplex-laptop,3,Warum gibt es in Deutschland eine Gewaltenteilung?,1,True,,,958,"In Deutschland gibt es eine Gewaltenteilung, um sicherzustellen, dass keine Person oder Gruppe zu viel Macht bekommt. Das bedeutet, dass die Arbeit der Regierung aufgeteilt ist in drei Teile: das Parlament (Gesetzgebung), die Regierung (Ausführung) und die Gerichte (Rechtsprechung). Jeder Teil hat seine eigenen Aufgaben und kann die anderen kontrollieren. So bleibt alles fair und gerecht.
+
+### Begriffe erklärt:
+
+**Gewaltenteilung:** Das ist die Aufteilung der Macht in verschiedene Bereiche, damit niemand zu viel Kontrolle bekommt.
+
+**Parlament (Gesetzgebung):** Hier werden Gesetze gemacht. Die Abgeordneten im Bundestag und Bundesrat entscheiden darüber.
+
+**Regierung (Ausführung):** Diese führt die Gesetze aus und verwaltet das Land. Der Kanzler oder die Kanzlerin leitet sie an.
+
+**Gerichte (Rechtsprechung):** Hier werden Streitigkeiten geklärt und überprüft, ob alles nach den Gesetzen gemacht wird. Richterinnen und Richter sind dafür zuständig.",Bundestagswahl 2025 (IzpB)|Rechtsstaat (IzpB)|Flucht und Migration (APuZ)|Nationalsozialismus II (IzpB),31.88,0.02,81456.39,99755.84,181244.13,958,261

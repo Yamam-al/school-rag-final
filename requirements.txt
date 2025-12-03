@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pydantic-settings
+chromadb
+sentence-transformers
+httpx
+sse-starlette
+PyMuPDF
+pypdf
+python-multipart
+httpx[http2]
+requests
