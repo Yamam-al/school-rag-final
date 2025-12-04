@@ -73,9 +73,12 @@ TOP_K=4
 ```bash
 ollama run phi4
 ```
-
 This automatically downloads the model and starts the local server at:
 http://localhost:11434.
+
+this will take some time, since the model is over 9 GB.
+after the installation is done the model will run automatically in your terminal, you can exit it afterwards (with Ctrl+C), since we only needed to install it.
+
 
 ### 4.2 Install Virtual Environment
 ```bash
@@ -88,7 +91,7 @@ py -3.13 -m venv .venv
 pip install -r requirements.txt
 ```
 ### 4.4 Install Embedding Model in models/intfloat--multilingual-e5-base
-this will take some time, since the model is over 2 GB.
+this will also take some time, since the model is over 2 GB.
 ```bash
 git clone https://huggingface.co/intfloat/multilingual-e5-base models/intfloat--multilingual-e5-base
 
